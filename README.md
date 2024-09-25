@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moisés Fernández</h1>
-<h3 align="center">A 25 year old developer from Mexico</h3>
+<h3 align="center">A software developer from Mexico</h3>
 
 - 🔭 I’m currently improving my problem solving skills and focusing on software development principles.
 - 🌱 I’m currently learning more about JavaScript and AWS
