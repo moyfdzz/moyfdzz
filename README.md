@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Moisés Fernández</h1>
-<h3 align="center">A software developer from Mexico</h3>
+<h3 align="center">A software developer from Monterrey, Nuevo Leon, Mexico</h3>
 
-- 🔭 I’m currently improving my problem solving skills and focusing on software development principles.
-- 🌱 I’m currently learning more about JavaScript and AWS
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/moyfdzz/)
+- 🔭 I’m currently focused on improving my problem-solving skills and deepening my understanding of software development principles.
+- 🌱 I’m actively honing my backend development expertise using the MERN stack and strengthening my frontend skills with React and tools like Tailwind CSS.
+- 💻 I’m also exploring cloud technologies, particularly AWS, to expand my capabilities as a well-rounded software engineer.
+- 🚀 My goal is to write clean, high-quality code that adheres to best practices and modern software engineering standards.
+- How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/moyfdzz/)
+  - [Mail](mailto:moyfdzz@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moyfdzz&theme=dracula&margin-w=15&margin-h=15" alt="moyfdzz" /></a> </p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=moyfdzz&count_private=true&show_icons=true&include_all_commits=true&theme=onedark&hide=issues,prs" alt="moyfdzz" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moyfdzz&label=Profile%20views&color=0e75b6&style=flat" alt="moyfdzz" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moyfdzz&theme=darkhub&column=5&margin-w=15&margin-h=15" alt="moyfdzz" /></a> </p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=moyfdzz&show_icons=true&theme=github_dark&hide=contribs,issues" /></p>
