@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f2937&height=180&section=header&text=Moisés%20Fernández&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20developer%20%7C%20Monterrey%2C%20México&descAlignY=58&descSize=16" alt="Moisés Fernández" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f2937&height=180&section=header&text=Moisés%20Fernández&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20engineer%20%7C%20Monterrey%2C%20México&descAlignY=58&descSize=16" alt="Moisés Fernández" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Moisés Fernández</h1>
 
 <p align="center">
   <a href="https://github.com/moyfdzz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=520&lines=Full-stack+developer;MERN+%7C+React+%7C+Tailwind+CSS;Learning+AWS+and+cloud+services;Writing+clean%2C+maintainable+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=520&lines=Full-stack+developer;React+%7C+Node.js+%7C+AWS;Learning+AWS+and+cloud+services;Writing+clean%2C+maintainable+code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,26 +31,11 @@
 
 ## 📌 Featured projects
 
-<p align="center">
-  <a href="https://github.com/moyfdzz/sagashelf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moyfdzz&repo=sagashelf&theme=github_dark&hide_border=true" alt="sagashelf" />
-  </a>
-  <a href="https://github.com/moyfdzz/discord-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moyfdzz&repo=discord-bot&theme=github_dark&hide_border=true" alt="discord-bot" />
-  </a>
-</p>
+- [**sagashelf**](https://github.com/moyfdzz/sagashelf) · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) — my most recent project.
+- [**discord-bot**](https://github.com/moyfdzz/discord-bot) · ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) — a Discord bot built with JavaScript, Node.js and Discord.js.
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=moyfdzz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moyfdzz&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
+## 📊 GitHub activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=moyfdzz&theme=github-dark&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moyfdzz&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </p>
