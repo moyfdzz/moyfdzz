@@ -37,7 +37,7 @@
 
 - [**Holistic Spa Landing Page**](https://www.masajesrelaxmty.com/) · ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) — a landing page for a holistic spa.
 - [**Carpentry Landing Page**](https://carpinterialb.vercel.app/) · ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) — a landing page for a carpentry business.
-- [**discord-bot**](https://github.com/moyfdzz/discord-bot) · ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) — a Discord bot built with JavaScript, Node.js and Discord.js.
+- [**sagashelf**](https://sagashelf.app/) · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) — my most recent project.
 
 ## 📊 GitHub activity
 
