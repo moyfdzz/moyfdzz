@@ -35,9 +35,9 @@
 
 ## 📌 Featured projects
 
-- [**Holistic Spa Landing Page**](https://www.masajesrelaxmty.com/) · ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) — a landing page for a holistic spa.
-- [**Carpentry Landing Page**](https://carpinterialb.vercel.app/) · ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) — a landing page for a carpentry business.
-- [**sagashelf**](https://sagashelf.app/) · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) — my most recent project.
+- [**SagaShelf**](https://sagashelf.app/) · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) — a web app to search, track and share anime, movies, series, books and manga, with personal libraries and progress tracking. Built with React Router, Tailwind CSS, Cloudflare Workers and Postgres.
+- [**Masajes Relax Monterrey**](https://www.masajesrelaxmty.com/) · ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white&style=flat-square) — a bilingual (Spanish/English) website for a home massage and facial service in Monterrey. Built with Astro and React, tested for accessibility and performance, and deployed on Vercel.
+- [**Carpentry Landing Page**](https://carpinterialb.vercel.app/) · ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) — a landing page with a contact page for a carpentry business, built with HTML, CSS and JavaScript.
 
 ## 📊 GitHub activity
 
