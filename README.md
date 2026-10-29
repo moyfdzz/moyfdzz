@@ -29,9 +29,14 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,aws,git,github,vscode&perline=11" alt="Tech stack" />
 </p>
 
+**AI tools:**
+![Claude](https://img.shields.io/badge/-Claude-D97757?logo=claude&logoColor=white&style=for-the-badge)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=for-the-badge)
+
 ## 📌 Featured projects
 
-- [**sagashelf**](https://github.com/moyfdzz/sagashelf) · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) — my most recent project.
+- [**Holistic Spa Landing Page**](https://www.masajesrelaxmty.com/) · ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) — a landing page for a holistic spa.
+- [**Carpentry Landing Page**](https://carpinterialb.vercel.app/) · ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) — a landing page for a carpentry business.
 - [**discord-bot**](https://github.com/moyfdzz/discord-bot) · ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) — a Discord bot built with JavaScript, Node.js and Discord.js.
 
 ## 📊 GitHub activity
